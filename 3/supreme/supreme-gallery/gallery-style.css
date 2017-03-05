@@ -1,0 +1,32 @@
+body {
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  margin-top: 125px;
+  margin-bottom: 50px;
+}
+
+.main {
+  margin-bottom: 50px;
+}
+
+.img-container {
+  display: inline-block;
+}
+
+.footer {
+
+}
+
+ul li {
+  display: inline;
+  margin-right: 9px;
+}
+
+.margin-right {
+  margin-right: 20px;
+}
+a hov
